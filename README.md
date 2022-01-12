@@ -1,1 +1,1 @@
-Support code from the article https://l-homme.com/why-type-checking-is-a-smell-even-in-go/
+Support code from the article https://l-homme.com/why-reflection-can-be-a-smell-even-in-go/
